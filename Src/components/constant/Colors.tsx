@@ -1,0 +1,7 @@
+export const COLORS = {
+  DARK_BLUE: '#003580',
+  BLACK: '#000000',
+  WHITE: '#FFFFFF',
+  YELLOW: '#FFC72C',
+  TRANSPARENT_BLACK: '#00000030',
+};
